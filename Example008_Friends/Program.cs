@@ -1,8 +1,8 @@
 ﻿int count = 0;
-int distance = 10000;
-int firstFriendSpeed = 1;
-int secondFriendSpeed = 2;
-int dogSpeed = 5;
+int distance = 70000;
+int firstFriendSpeed = 3;
+int secondFriendSpeed = 5;
+int dogSpeed = 7;
 int friend = 2;
 int time = 0;
 
